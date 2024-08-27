@@ -6,7 +6,7 @@
 
 html,
 body {
-  background-image: url('/images/bg.gif') ;
+  background-image: url('/images/bg.gif');
   background-size: cover;
   height: 100%;
   position: relative;
