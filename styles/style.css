@@ -8,11 +8,12 @@ html,
 body {
   background-image: url('../images/bg.gif');
   background-size: cover;
+  background-attachment: fixed; 
+  background-repeat: no-repeat; 
   height: 100%;
   position: relative;
   font-size: 16px;
 }
-
 .kumbh__font {
   font-family: "Kumbh Sans", sans-serif;
 }
